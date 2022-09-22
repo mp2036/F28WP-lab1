@@ -1,2 +1,3 @@
 # F28WP-lab1
-First repo
+This is the a repo made for the first lab
+It contains files and 
